@@ -2,6 +2,8 @@
 
 ## Available Scripts
 
+First clone the repository or download the zip file.
+
 In the project directory, you can run:
 ### `npm install`
 This will install all the packages from package.json
